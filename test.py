@@ -1,4 +1,6 @@
-import random
+API_KEY_LIST = [
+    'TLZoG6ZcW3puGJnFgLi3fFe4OwS2Nm3uj24Kmq',
+    'TLQcU3xGCmQQ3iU9rTbMEdKjqhA5uFb9GJ6obW'
+]
 
-print(random.randint(1, 100000))
-
+print(API_KEY_LIST[0])
